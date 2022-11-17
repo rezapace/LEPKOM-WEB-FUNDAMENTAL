@@ -1,0 +1,10 @@
+C:\Users\R\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\R\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\R\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\R\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\R\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\R\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\R\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\R\source\repos\WebApplication2\WebApplication2\bin\WebDriver.dll
+C:\Users\R\source\repos\WebApplication2\WebApplication2\bin\WebDriver.xml
+C:\Users\R\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete

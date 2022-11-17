@@ -1,0 +1,23 @@
+﻿body {
+}
+#north 
+{
+    background-color: #ff0000; 
+    position: relative;
+    width: 100%;
+    heiht: 100px;
+}
+#center 
+{
+    background-color: #00ff21;
+    position: relative;
+    width: 100%;
+    heiht: 100px;
+}
+#bawah 
+{
+    background-color: #0026ff;
+    position: relative;
+    width: 100%;
+    heiht: 100px;
+}

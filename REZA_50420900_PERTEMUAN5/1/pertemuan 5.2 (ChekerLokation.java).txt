@@ -1,0 +1,44 @@
+package LokasiUniversitas;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/chekerlocation")
+public class ChekerLocation extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String keywordUniversitas, lokasi;
+		keywordUniversitas = request.getParameter("universitas");
+		
+		lokasi = getLokasi (keywordUniversitas);
+		
+		request.setAttribute("universitas", keywordUniversitas);
+		request.setAttribute("lokasi", lokasi);
+		
+		request.getServletContext().getRequestDispatcher("/hasil.jsp").forward(request, response);
+	}
+	protected String getLokasi (String universitas){
+		String lokasi;
+		
+		if (universitas.equals("gunadarama")){
+			lokasi = "depok";
+		}else if (universitas.equals("ui") || universitas.equals("universitas indonesia")){
+			lokasi = "depok";
+		}else if (universitas.equals("itb") || universitas.equals("institut teknologi bandung")){
+			lokasi = "bandung";
+		}else if (universitas.equals("undip") || universitas.equals("universitas diponegoro")){
+			lokasi = "semarang";
+		}else if (universitas.equals("ugm") || universitas.equals("universitas gajah mada")){
+			lokasi = "jogja";
+		}
+		else {
+			lokasi = "tidak di ketahui";
+		}
+		return lokasi;
+	}
+}

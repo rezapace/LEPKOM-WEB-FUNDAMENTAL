@@ -1,0 +1,7 @@
+C:\Users\R\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\R\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\R\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\R\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojAssemblyReference.cache
+C:\Users\R\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\R\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\R\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb

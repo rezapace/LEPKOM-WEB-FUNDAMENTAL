@@ -1,0 +1,22 @@
+Activity Pertemuan 1
+1.C
+2.D
+3.B
+4.D
+5.C
+6.A
+7.A
+8.D
+9.A
+10.C
+11.C
+12.D
+13.C
+14.B
+15.D
+
+Essay
+1.- masukan alamat pada web yang di tuju
+- browser akan meminta halaman web dari web server
+- web browser akan mengirimkan data web yang di minta ke browser
+- browser menginterprestasikan data dan tampilan

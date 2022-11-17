@@ -1,0 +1,43 @@
+Soal A
+
+1.Apa yang dimaksud dengan J2EE? (POIN: 10)
+Jawab : J2EE merupakan sebuah edisi platform dari bahasa pemrograman Java yang berstandar untuk menyelesaikan komplesitas masalah pada perusahaan. J2EE menyediakan API (Application Program Interface) dan Run Time Environment untuk mengembangkan dan menjalankan perangkat lunak multiple network yang dapat menggunakan web service, secure network application, dan aplikasi skala besar lainnya. J2EE singkatan dari Java 2 Enterprise Edition dan semenjak versi 5 berubah menjadi java EE atau Java Enterprise Edition. Java Enterprise Edition adalah sebuah spesifikasi sehingga ada banyak vendor software/ komunitas opensource membuat software application server yang mengikuti standar Java Enterprise Edition. J2EE sendiri merupakan sebuah edisi platform dari bahasa pemrograman Java yang berstandar untuk menyelesaikan komplesitas masalah pada perusahaan. J2EE menyediakan API (Application Program Interface) dan Run Time Environment untuk mengembangkan dan menjalankan perangkat lunak multiple network yang dapat menggunakan web service, secure network application, dan aplikasi skala besar lainnya. Beberapa API yang disediakan oleh J2EE diantaranya adalah API untuk berkomunikasi dengan web service dan untuk mengembangkan aplikasi berbasis web.
+
+2.Sebutkan apa kelebihan dari J2EE? (POIN: 10)
+Jawab : Kelebihan J2EE yaitu J2EE menyediakan tempat untuk membangun dan menjalankan multitier enterprise editions. J2EE berisi paket-paket di J2SE ditambah paket-paket untuk mendukung pengembangan Enterprise JavaBeans, Java Servlets, JavaServer Pages, XML, dan kendali transaksi yang fleksibel. Java 2 Enterpise Edition (J2EE), J2EE menyediakan tempat untuk membangun dan menjalankan multitier enterprise editions. J2EE berisi paket-paket di J2SE ditambah paket-paket untuk mendukung pengembangan Enterprise JavaBeans, Java Servlets, JavaServer Pages, XML, dan kendali transaksi yang fleksibel. Model aplikasi yang digunakan pada platform ini adalah model aplikasi  distibuted multitier. Contoh aplikasi multi-tier adalah suatu aplikasi web : layer presentasi (client browser), layer bussines logic (program yang berada pada web server), dan layerpenyimpanan (database yang akan menangani data aplikasi tersebut) terpisah dengan jelas, tetapi secara keseluruhan bertujuan untuk menciptakan sebuah aplikasi bagi user. Java 2 Enterpise Edition (J2EE), J2EE menyediakan tempat untuk membangun dan menjalankan multitier enterprise editions. J2EE berisi paket-paket di J2SE ditambah paket-paket untuk mendukung pengembangan Enterprise JavaBeans, Java Servlets, JavaServer Pages, XML, dan kendali transaksi yang fleksibel.
+Model aplikasi yang digunakan pada platform ini adalah model aplikasi distibuted multitier. Contoh aplikasi multi-tier adalah suatu aplikasi web : layer presentasi (client browser), layer bussines logic (program yang berada pada web server), dan layerpenyimpanan (database yang akan menangani data aplikasi tersebut) terpisah dengan jelas, tetapi secara keseluruhan bertujuan untuk menciptakan sebuah aplikasi bagi user.
+
+3.Apa yang dimaksud dengan website statis? (POIN: 10)
+Jawab : Web Statis adalah web yang tidak bisa diubah secara langsung oleh penggunanya melalui browser atau peramban. Web statis adalah website yang mana pengguna tidak bisa mengubah konten dari web tersebut secara langsung menggunakan browser. Interaksi yang terjadi antara pengguna dan server hanyalah seputar pemrosesan link saja. Halaman-halaman web tersebut tidak memliki database, data dan informasi yang ada pada web statis tidak berubah-ubah kecuali diubah sintaksnya. Dokumen web yang dikirim kepada client akan sama isinya dengan apa yang ada di web server. Web statis adalah website yang mana pengguna tidak bisa mengubah konten dari web tersebut secara langsung menggunakan browser. Interaksi yang terjadi antara pengguna dan server hanyalah seputar pemrosesan link saja. Halaman-halaman web tersebut tidak memliki database, data dan informasi yang ada pada web statis tidak berubah-ubah kecuali diubah sintaksnya. Dokumen web yang dikirim kepada client akan sama isinya dengan apa yang ada di web server.
+
+4.Apa yang dimaksud dengan website dinamis? (POIN: 10)
+Jawab : Web Dinamis adalah sebuah web yang konten, isi dan datanya dapat diubah dengan mudah melalui browser secara berkala dan mudah tanpa harus mengubah kode sumber script web dinamis tersebut. Web Dinamis adalah Web yang content atau isinya dapat berubah-ubah setiap saat. Karena dalam teknologi pembuatan web dinamis sudah dirancang semudah mungkin bagi user yang menggunakan web dinamis tersebut. Untuk perubahan content atau isi dokumen dalam sebuah web dinamis dibilang mudah ketimbang web statis yang harus memiliki keahlian khusus pada bagian scripting web tersebut Web Dinamis adalah Web yang content atau isinya dapat berubah-ubah setiap saat. Karena dalam teknologi pembuatan web dinamis sudah dirancang semudah mungkin bagi user yang menggunakan web dinamis tersebut. Untuk perubahan content atau isi dokumen dalam sebuah web dinamis dibilang mudah ketimbang web statis yang harus memiliki keahlian khusus pada bagian scripting web tersebut.
+
+5.Sebutkan minimal 3 komponen web beserta kegunaannya? (POIN: 10)
+Jawab : 
+I. DOMAIN
+Domain adalah alamat sebuah website yang digunakan untuk mengakses sebuah website dengan cara mengetikkannya di browser yang ada di perangkat Anda yang terkoneksi ke internet
+II. HOSTING
+Hosting adalah tempat dimana data-data website disimpan, di-online-kan dan diolah oleh pengelola website. Saya ibaratkan hosting ini ibarat satu ruangan di sebuah gedung apartemen atau gedung perkantoran. Hosting menjadi tempat tinggal ataupun kantor kita di dunia online(internet).
+III. SERVER
+Server adalah tempat dimana terdapat banyak hosting website diletakkan di dalamnya.
+I.) DOMAIN
+Domain adalah alamat sebuah website yang digunakan untuk mengakses sebuah website dengan cara mengetikkannya di browser yang ada di perangkat Anda yang terkoneksi ke internet. Contoh domain adalah www.Detik.com.
+
+II.) HOSTING
+Hosting adalah tempat dimana data-data website disimpan, di-online-kan dan diolah oleh pengelola website. Saya ibaratkan hosting ini ibarat satu ruangan di sebuah gedung apartemen atau gedung perkantoran. Hosting menjadi tempat tinggal ataupun kantor kita di dunia online(internet).
+
+III.) SERVER
+Server adalah tempat dimana terdapat banyak hosting website diletakkan di dalamnya.
+
+IV.) DATA CENTER
+Data Center adalah tempat dimana banyak server diletakkan dan di-online-kan di dalamnya ke seluruh dunia.
+
+V.) CPANEL
+cPanel(Control Panel) adalah panel kontrol hosting sebuah website. cPanel ibarat software yang bisa dipergunakan secara online.
+
+VI.) CMS
+CMS(Content Management System) adalah software online untuk memasukkan, mengelola dan mengembangkan data-data online website dengan cara penggunaan yang sangat mudah dimana tujuan dari diciptakannya CMS ini memang adalah untuk memudahkan kita-kita yang belum memahami kode-kode HTML, PHP dll yang bagi pemula tentu sangat rumit.
+Soal b
+1.Buatlah form log in menggunakan static web (eclipse)! Ikuti video activity 02B untuk mengetahui pembuatannya! (POIN: 25)
+Jawab :
