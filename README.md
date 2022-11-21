@@ -1,6 +1,6 @@
 # LEPKOM-WEB-FUNDAMENTAL
 
-# golang-fundamental
+# LEPKOM FUNDAMENTAL
  
 Lab IT Practicum - FUNDAMENTAL WEB - TINGKAT 1
 
